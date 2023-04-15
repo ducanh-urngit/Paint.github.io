@@ -1,0 +1,24 @@
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\bin\Debug\Bai1GiuaKy.exe.config
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\bin\Debug\Bai1GiuaKy.exe
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\bin\Debug\Bai1GiuaKy.pdb
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.csproj.AssemblyReference.cache
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.csproj.SuggestedBindingRedirects.cache
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.DoubleBufferedPanel.resources
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.Properties.Resources.resources
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.csproj.GenerateResource.cache
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.csproj.CoreCompileInputs.cache
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.exe
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.pdb
+E:\2NamHai\Ki2\LapTrinhWindows\chapter4 ADO.NET\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.Form1.resources
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\bin\Debug\Bai1GiuaKy.exe.config
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\bin\Debug\Bai1GiuaKy.exe
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\bin\Debug\Bai1GiuaKy.pdb
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.csproj.AssemblyReference.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.csproj.SuggestedBindingRedirects.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.DoubleBufferedPanel.resources
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.Form1.resources
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.Properties.Resources.resources
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.csproj.GenerateResource.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.csproj.CoreCompileInputs.cache
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.exe
+E:\2NamHai\Ki2\LapTrinhWindows\Bai1GiuaKy\Bai1GiuaKy\obj\Debug\Bai1GiuaKy.pdb
